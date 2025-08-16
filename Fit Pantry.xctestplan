@@ -1,0 +1,85 @@
+{
+  "configurations" : [
+    {
+      "id" : "39A4EAFF-627D-4C39-8EE8-AB21A4108CE5",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Fit Pantry.xcodeproj",
+      "identifier" : "9AC81DCC2CA57BCF00A0472C",
+      "name" : "Fit Pantry"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fit Pantry.xcodeproj",
+        "identifier" : "9AC81DDC2CA57BD000A0472C",
+        "name" : "Fit PantryTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fit Pantry.xcodeproj",
+        "identifier" : "9AC81DE62CA57BD000A0472C",
+        "name" : "Fit PantryUITests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fit Pantry.xcodeproj",
+        "identifier" : "F80C28B12CFD2B950070B172",
+        "name" : "MealPlanner"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fit Pantry.xcodeproj",
+        "identifier" : "F80C28C02CFD2BC30070B172",
+        "name" : "MealSuggestionsTest"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fit Pantry.xcodeproj",
+        "identifier" : "F80C28CF2CFD2BEF0070B172",
+        "name" : "MealPlannerTest"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fit Pantry.xcodeproj",
+        "identifier" : "F80C28DE2CFD2C250070B172",
+        "name" : "NutritionManagerTest"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fit Pantry.xcodeproj",
+        "identifier" : "F80C28ED2CFD2C360070B172",
+        "name" : "ShoppingListTest"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fit Pantry.xcodeproj",
+        "identifier" : "F80C28FC2CFD2C570070B172",
+        "name" : "UserPreferenceTest"
+      }
+    }
+  ],
+  "version" : 1
+}

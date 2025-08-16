@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1610"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES"
+      buildArchitectures = "Automatic">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9AC81DCC2CA57BCF00A0472C"
+               BuildableName = "Fit Pantry.app"
+               BlueprintName = "Fit Pantry"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <TestPlans>
+         <TestPlanReference
+            reference = "container:Fit Pantry.xctestplan"
+            default = "YES">
+         </TestPlanReference>
+      </TestPlans>
+      <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9AC81DDC2CA57BD000A0472C"
+               BuildableName = "Fit PantryTests.xctest"
+               BlueprintName = "Fit PantryTests"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9AC81DE62CA57BD000A0472C"
+               BuildableName = "Fit PantryUITests.xctest"
+               BlueprintName = "Fit PantryUITests"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F80C28B12CFD2B950070B172"
+               BuildableName = "MealPlanner.xctest"
+               BlueprintName = "MealPlanner"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F80C28C02CFD2BC30070B172"
+               BuildableName = "MealSuggestionsTest.xctest"
+               BlueprintName = "MealSuggestionsTest"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F80C28CF2CFD2BEF0070B172"
+               BuildableName = "MealPlannerTest.xctest"
+               BlueprintName = "MealPlannerTest"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F80C28DE2CFD2C250070B172"
+               BuildableName = "NutritionManagerTest.xctest"
+               BlueprintName = "NutritionManagerTest"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F80C28ED2CFD2C360070B172"
+               BuildableName = "ShoppingListTest.xctest"
+               BlueprintName = "ShoppingListTest"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F80C28FC2CFD2C570070B172"
+               BuildableName = "UserPreferenceTest.xctest"
+               BlueprintName = "UserPreferenceTest"
+               ReferencedContainer = "container:Fit Pantry.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9AC81DCC2CA57BCF00A0472C"
+            BuildableName = "Fit Pantry.app"
+            BlueprintName = "Fit Pantry"
+            ReferencedContainer = "container:Fit Pantry.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9AC81DCC2CA57BCF00A0472C"
+            BuildableName = "Fit Pantry.app"
+            BlueprintName = "Fit Pantry"
+            ReferencedContainer = "container:Fit Pantry.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
