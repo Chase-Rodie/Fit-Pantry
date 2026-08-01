@@ -11,3 +11,6 @@ Old_AI_Model/
 *.pth
 *.pt
 *.ckpt
+
+# Firebase local configuration
+GoogleService-Info.plist
